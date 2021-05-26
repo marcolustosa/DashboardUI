@@ -1,0 +1,60 @@
+@import "https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700";
+
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-image: linear-gradient(to bottom right, rgb(44, 43, 43), rgb(71, 69, 69));
+}
+
+p {
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.1em;
+    font-weight: 300;
+    line-height: 1.7em;
+    color: rgb(201, 198, 198);
+}
+
+a, a:hover, a:focus {
+    color: inherit;
+    text-decoration: none;
+    transition: all 0.3s;
+}
+
+.line {
+    width: 100%;
+    height: 1px;
+    border-bottom: 1px dashed #ddd;
+    margin: 40px 0;
+}
+
+small {
+  font-family: 'Poppins', sans-serif;
+  font-size: 0.8em;
+  font-weight: 300;
+  line-height: 1.7em;
+  color: rgb(201, 198, 198);
+}
+
+.ui.inverted.blue.header {
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.3em;
+    font-weight: 300;
+    line-height: 1.7em;
+    color: rgb(201, 198, 198);
+    
+}
+
+.ui.inverted.red.header {
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.3em;
+    font-weight: 300;
+    line-height: 1.7em;
+    color: rgb(201, 198, 198);
+    
+}
+
+.ui.header,.item,.ui.primary.button {
+    font-family: 'Poppins', sans-serif;
+
+}
+
