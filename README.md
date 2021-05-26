@@ -1,4 +1,4 @@
-<h1>:heavy_check_mark: Frontend Simple Dashboard com Framework Semantic UI.</h1>
+<h1>:heavy_check_mark: Simple Frontend Dashboard com Framework Semantic UI.</h1>
 
 <img src="images/avatar/home.png" alt="homepage"/>
 
