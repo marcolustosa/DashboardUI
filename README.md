@@ -1,5 +1,7 @@
 <h2>:heavy_check_mark: Frontend Simple Dashboard com Framework Semantic UI.</h2>
 
+<img src="images/avatar/home.png" alt="homepage"/>
+
 <h3>💻 Sobre o projeto</h3>
 
 :wave: - Projeto frontend desenvolvido para criação de uma dashboard com o framework Semantic UI, experiência nova pois o uso do Bootstrap é mais comum em todos os Front's.
